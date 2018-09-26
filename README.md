@@ -1,6 +1,8 @@
 # FlyGo_HellowWord
 maven HelloWord学习
 
+学习文档地址：https://www.flygo520.com/docs/maven/maven-1alsn5526m0te
+
 # 创建工程
 
 1、右键`新建` -> 选择`New`选项 -> `Project...`选项。
