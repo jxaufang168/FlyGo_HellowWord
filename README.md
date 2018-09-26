@@ -1,6 +1,5 @@
 # FlyGo_HellowWord
 maven HelloWord学习
-[TOC]
 
 # 创建工程
 
